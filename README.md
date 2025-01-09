@@ -7,6 +7,20 @@ This project involves managing aircraft production using Django Rest Framework (
 - **Backend**: [http://134.209.118.95:8001](http://134.209.118.95:8001)
 - **Frontend**: [http://134.209.118.95:3000](http://134.209.118.95:3000)
 
+## Personnel Profiles
+
+Personnel1 -> Wing Team
+
+Personnel2 -> Fuselage Team
+
+Personnel3 -> Tail Team
+
+Personnel4 -> Avionics Team
+
+Personnel5 -> Assembly Team
+
+All personnels can login with this credential pattern -> username: personnel `<x>` , password: personnel `<x> Like personnel1.`
+
 ## Dockerized Setup
 
 The project has been dockerized and is running on a Debian server. The above URLs are publicly accessible for you to access the application.
