@@ -4,8 +4,8 @@ This project involves managing aircraft production using Django Rest Framework (
 
 ## Live URLs
 
-- **Backend**: [http://134.209.118.95:8001](http://134.209.118.95:8001)
-- **Frontend**: [http://134.209.118.95:3000](http://134.209.118.95:3000)
+- **Backend**: [http://http://35.202.106.100/:8001](http://134.209.118.95:8001)
+- **Frontend**: [http://http://35.202.106.100/:3000](http://134.209.118.95:3000)
 
 ## Personnel Profiles
 
